@@ -34,7 +34,7 @@ public class P04_SwitchStatements {
                 System.out.println("Temmuz ayında doğmuşsunuz");
                 break;
             case 8:
-                System.out.println("Ağustos ayında doğmuşsunuz");
+               System.out.println("Ağustos ayında doğmuşsunuz");
                 break;
             case 9:
                 System.out.println("Eylül ayında doğmuşsunuz");
